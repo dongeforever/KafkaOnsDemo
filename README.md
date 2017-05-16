@@ -20,8 +20,7 @@
 2. 使用之前需要先申请Topic(类型选择Kafka消息(公测中)), 与Consumer ID，详情请参考[申请MQ资源](https://help.aliyun.com/document_detail/29536.html?spm=5176.doc29546.2.2.gWIToO)
 3. 如果没有申请Topic，则会直接导致鉴权失败
 4. 其它Kafka使用相关文档请参考[Kafka官网](https://kafka.apache.org/0100/documentation.html)
-5. 暂时无法查看Kafka消息的消费位点，功能正在开发中，敬请期待。
-6. 欢迎加钉钉群咨询，用钉钉扫描[群二维码](http://img3.tbcdn.cn/5476e8b07b923/TB1HEQgQpXXXXbdXVXXXXXXXXXX)
+5. 欢迎加钉钉群咨询，用钉钉扫描[群二维码](http://img3.tbcdn.cn/5476e8b07b923/TB1HEQgQpXXXXbdXVXXXXXXXXXX)
 
 #### 接入步骤一：引入依赖
 Maven方式：
